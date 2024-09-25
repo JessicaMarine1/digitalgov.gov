@@ -43,11 +43,6 @@ In September 2023, the Office of Management and Budget (OMB) issued M-23-22, Del
 
 OMB organizes this guidance into seven digital experience pillars — with suggested tactics to meet federal requirements and deliver outcomes to the public.
 
-Below, watch the eight-minute opening keynote of Clare Martorana, Federal Chief Information Officer, Office of Management and Budget, at the 2024 Digital.gov Summit: Delivering a digital-first public experience.
-
-{{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
-
-
 <table class="usa-table usa-table--striped">
   <caption>Digital experience pillars, tactics, and outcomes</caption>
   <thead>
@@ -96,6 +91,9 @@ Below, watch the eight-minute opening keynote of Clare Martorana, Federal Chief 
   </tbody>
 </table>
 
+Below, watch the eight-minute opening keynote of Clare Martorana, Federal Chief Information Officer, Office of Management and Budget, at the 2024 Digital.gov Summit: Delivering a digital-first public experience.
+
+{{< youtube id="uwedXPjqOLE" title="Opening keynote with Clare Martorana" >}}
 
 ## Why this matters
 
@@ -113,7 +111,7 @@ And, many government forms and services require paper processes, which add burde
 
 ## How we are getting started at the U.S. General Services Administration (GSA)
 
-M-23-22 contains more than **100 requirements** and the Office of the Federal Chief Information Officer (OFCIO) has stated that it is a [10-year roadmap for a modern digital experience](https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/#:~:text=a%20ten%2Dyear%20roadmap%20for%20a%20modern%20digital%20experience). It is impossible to tackle all these requirements at once, so we are using an agile, quick-start approach to get started at GSA with eight of them.
+M-23-22 contains more than **100 requirements** and the Office of the Federal Chief Information Officer (OFCIO) has stated that it is a [10-year roadmap for a modern digital experience](https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/#:~:text=a%20ten%2Dyear%20roadmap%20for%20a%20modern%20digital%20experience). It is impossible to tackle all these requirements at once, so we are using an agile, quick-start approach to get started at GSA.
 
 ### 1) Accessible to people of diverse abilities
 
